@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rafael Lopes 
+- 👋 Hi, I’m Leandro Lopes 
 - 👀 I’m interested in front end
 - 🌱 I’m currently learning Programming logic, html and css 
 - 💞️ I’m looking to collaborate on small projects to help me evolve
